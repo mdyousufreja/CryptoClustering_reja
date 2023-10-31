@@ -19,9 +19,9 @@ Downloaded the following files to get started:
 
 ## Data Preparation ##
 
-- Used the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
+- Used the **StandardScaler()** module from **scikit-learn** to normalize the data from the CSV file.
 
-- Create a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
+- Created a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
-   - The first five rows of the scaled DataFrame should appear as follows:
+   - The first five rows of the scaled DataFrame appeared as follows:
 
