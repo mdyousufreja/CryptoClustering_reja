@@ -39,3 +39,5 @@ Downloaded the following files to get started:
 - Subsequently, establish the optimal K value for clustering after PCA, with the best K value identified as 4.
 - Finally, employ the K-means algorithm to cluster cryptocurrencies following the PCA dimensionality reduction.
 
+## Findings  ##
+
