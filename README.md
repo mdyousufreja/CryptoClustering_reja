@@ -41,3 +41,10 @@ Downloaded the following files to get started:
 
 ## Findings  ##
 
+PCA (Principal Component Analysis) is a dimensionality reduction technique that combines the original variables or features to create new PCA variables (components) that capture the most important information in the data. Using PCA before applying K-means clustering can often lead to improved visualization and more effective clustering results compared to applying K-Means directly to the original dataset. To illustrate this with an example:
+
+- "market_plot" is the result of applying K-Means directly to the original dataset. In this case, you have two clusters that might overlap, making it difficult to distinguish different groups within the data.
+
+- "market_pca_plot" is the result of applying PCA to the original dataset, reducing its dimensionality. After PCA, K-Means is applied, resulting in a clearer separation with four distinct clusters. This approach enhances the clustering results and makes it easier to visualize and interpret the underlying patterns in the data.
+
+
