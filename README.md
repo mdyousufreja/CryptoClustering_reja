@@ -32,3 +32,6 @@ Downloaded the following files to get started:
 - Discovering the optimal K value for clustering cryptocurrencies was accomplished by analyzing the original scaled data frame, and the result indicated that K=4 is the most suitable choice.
 - Following this determination, the K-means algorithm was utilized to group cryptocurrencies into distinct clusters.
 
+ 
+## PCA (Principal Component Analysis) and K-value ##
+
