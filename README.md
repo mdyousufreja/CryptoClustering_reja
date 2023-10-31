@@ -35,3 +35,7 @@ Downloaded the following files to get started:
  
 ## PCA (Principal Component Analysis) and K-value ##
 
+- Conduct a Principal Component Analysis (PCA) to reduce the features to three principal components and determine the total explained variance, which is calculated to be 0.8950316570309841. 
+- Subsequently, establish the optimal K value for clustering after PCA, with the best K value identified as 4.
+- Finally, employ the K-means algorithm to cluster cryptocurrencies following the PCA dimensionality reduction.
+
