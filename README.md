@@ -26,4 +26,6 @@ Downloaded the following files to get started:
 - Created a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
    - The first five rows of the scaled DataFrame appeared as follows:
+ 
+## Find the Best K-value  ##
 
